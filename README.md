@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :exclamation: :exclamation: :exclamation: :exclamation:
 
 I'm Danrong, a Python & C++ enthusiast. 
 
