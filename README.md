@@ -1,5 +1,4 @@
-### Hi there :exclamation: :exclamation: :exclamation: :exclamation:
-
+### Hi there :exclamation: :exclamation: :exclamation:
 I'm Danrong, a Python & C++ enthusiast. 
 
 :purple_heart: :purple_heart: :yellow_heart: :yellow_heart: :green_heart: :green_heart: :purple_heart: :purple_heart: :yellow_heart: :yellow_heart: :green_heart: :green_heart: :purple_heart: :purple_heart: :yellow_heart: :yellow_heart: :green_heart: :green_heart: :purple_heart: :purple_heart: :yellow_heart: :yellow_heart: :green_heart: :green_heart: :boom: :boom: :octocat: :octocat: :boom: :boom: :octocat: :octocat: :boom: :boom: :octocat: :octocat: :boom: :boom: :octocat:
