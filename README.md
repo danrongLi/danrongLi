@@ -1,9 +1,7 @@
 ### Hi there :exclamation: :exclamation:
 I'm Danrong, a Python & C++ enthusiast. 
 
-![food](https://github.com/danrongLi/danrongLi/blob/main/food.JPG){:class="img-responsive"}
-![food](https://github.com/danrongLi/danrongLi/blob/main/food.JPG){:height="50%" width="50%"}
-![food](https://github.com/danrongLi/danrongLi/blob/main/food.JPG){:height="700px" width="400px"}
+<img src="https://github.com/danrongLi/danrongLi/blob/main/food.JPG" width="400" height="790">
 
 :purple_heart: :purple_heart: :yellow_heart: :yellow_heart: :green_heart: :green_heart: :purple_heart: :purple_heart: :yellow_heart: :yellow_heart: :green_heart: :green_heart: :purple_heart: :purple_heart: :yellow_heart: :yellow_heart: :green_heart: :green_heart: :purple_heart: :purple_heart: :yellow_heart: :yellow_heart: :green_heart: :green_heart: :boom: :boom: :octocat: :octocat: :boom: :boom: :octocat: :octocat: :boom: :boom: :octocat: :octocat: :boom: :boom: :octocat:
 
