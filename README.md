@@ -1,8 +1,7 @@
 ### Hi there :exclamation: :exclamation:
 I'm Danrong, a Python & C++ enthusiast. 
 
-<img src="https://github.com/danrongLi/danrongLi/blob/main/food.JPG" width="300" height="250">
-<img src="https://github.com/danrongLi/danrongLi/blob/main/food.JPG" width="300" height="250">
+<img src="https://github.com/danrongLi/danrongLi/blob/main/food.JPG" width="300" height="250"><img src="https://github.com/danrongLi/danrongLi/blob/main/food.JPG" width="300" height="250">
 
 :purple_heart: :purple_heart: :yellow_heart: :yellow_heart: :green_heart: :green_heart: :purple_heart: :purple_heart: :yellow_heart: :yellow_heart: :green_heart: :green_heart: :purple_heart: :purple_heart: :yellow_heart: :yellow_heart: :green_heart: :green_heart: :purple_heart: :purple_heart: :yellow_heart: :yellow_heart: :green_heart: :green_heart: :boom: :boom: :octocat: :octocat: :boom: :boom: :octocat: :octocat: :boom: :boom: :octocat: :octocat: :boom: :boom: :octocat:
 
